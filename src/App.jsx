@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import background from './imgs/giphy.gif'
-import './app.css'
+import './App.css'
 import { Routes, Route } from 'react-router-dom'
 import Ceremony from './Ceremony'
 import Draw_page from './Draw_page'
